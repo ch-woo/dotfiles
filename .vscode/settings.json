@@ -1,1 +1,7 @@
-
+{
+	"editor.linkedEditing": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"workbench.editor.wrapTabs": true,
+	"workbench.iconTheme": "hypernym-icons",
+	"workbench.sideBar.location": "right"
+}
