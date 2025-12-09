@@ -1,2 +1,2 @@
 # dotfiles
-A collection of all my personal dotfiles – for when I need to setup another device.
+A collection of all settings files, a script to install essential features and configuring user-preferenced settings.
